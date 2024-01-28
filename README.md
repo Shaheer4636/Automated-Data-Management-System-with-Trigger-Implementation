@@ -1,0 +1,1 @@
+# Automated-Data-Management-System-with-Trigger-Implementation
